@@ -295,7 +295,3 @@ plot_silhouette_hk$data
 
 #now, we can compare models based on their silhouette (max) and twss (min) index -> based-on statistical indexes, hklust results is better than others
 # but there is still a question: are these Clusters good from Business aspect? which Clustering results are better? -> we can not answer this question in ML area, we can answer this question in applied area
-
-
-
-
